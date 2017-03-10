@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TensorFlow-Tutorials
 [![Build Status](https://travis-ci.org/nlintz/TensorFlow-Tutorials.svg?branch=master)](https://travis-ci.org/nlintz/TensorFlow-Tutorials)
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/2d3ed69cdbec4249ab5c2f7e4286bb8f)](https://www.codacy.com/app/hunkim/TensorFlow-Tutorials)
@@ -23,7 +22,6 @@ Newmu's [Theano Tutorials](https://github.com/Newmu/Theano-Tutorials).
 * TensorFlow
 * Numpy
 * matplotlib
-=======
+
 # Tensorflow-Tutorials
 TensorFlow-Tutorials-master
->>>>>>> 6d3e3b9629d0e62afd7cf179681cf9a8a958e9ab
